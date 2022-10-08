@@ -4,15 +4,13 @@
 - ☕ I mostly do Mobile, Web & Backend development.
 - 🏢 I am the Lead Mobile Developer at [Inventiff](https://inventiff.io/) 
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniteicristi)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniteicristi&show_icons=true&theme=dracula)
 
 ## Find me on
 
-![!Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - [Cristian-Daniel Anitei](https://www.linkedin.com/in/cristian-daniel-anitei-753713240/)
+- ![!Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) @ [Cristian-Daniel Anitei](https://www.linkedin.com/in/cristian-daniel-anitei-753713240/)
 
-
+![!Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) @ [Cristian-Daniel Anitei](https://www.linkedin.com/in/cristian-daniel-anitei-753713240/)
 
 ## Frameworks & Technologies
 
