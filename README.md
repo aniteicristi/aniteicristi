@@ -4,7 +4,7 @@
 - ☕ I mostly do Mobile, Web & Backend development.
 - 🏢 I am the Lead Mobile Developer at [Inventiff](https://inventiff.io/) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianitei&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniteicristi&show_icons=true&theme=dracula)
 
 
 ## Frameworks
