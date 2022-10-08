@@ -3,6 +3,7 @@
 - 🤖 I am passionate about software that helps people.
 - ☕ I mostly do Mobile, Web & Backend development.
 - 🏢 I am the Lead Mobile Developer at [Inventiff](https://inventiff.io/) 
+- 📚 I am a student at the Technical University of Cluj-Napoca, faculty of Computer Science and Automation.
 
 
 ## Find me on
