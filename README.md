@@ -2,8 +2,7 @@
 
 - 🤖 I am passionate about software that helps people.
 - ☕ I mostly do Mobile, Web & Backend development.
-- 🏢 I am the Lead Mobile Developer at [Inventiff](https://inventiff.io/) 
-- 📚 I am a student at the Technical University of Cluj-Napoca, faculty of Computer Science and Automation.
+- 📚 I am a final year student at the Technical University of Cluj-Napoca, faculty of Computer Science and Automation.
 
 
 ## Find me on
@@ -25,6 +24,7 @@
 ![!Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![!Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![!SciKit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![!Pytorch](https://img.shields.io/badge/pytorch-F7931E?style=for-the-badge&logo=pytorch&logoColor=white)
 ![!cytoscape](https://img.shields.io/badge/cytoscape.js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000)
 ![!Adonis](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![!.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
