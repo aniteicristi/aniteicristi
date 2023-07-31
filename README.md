@@ -2,7 +2,7 @@
 
 - 🤖 I am passionate about software that helps people.
 - ☕ I mostly do Mobile, Web & Backend development.
-- 📚 I am a final year student at the Technical University of Cluj-Napoca, faculty of Computer Science and Automation.
+- 📚 I graduated as a Computer Engineer from the Cluj-Napoca Technical University, Faculty of Automation and Computers.
 
 
 ## Find me on
